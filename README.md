@@ -17,4 +17,5 @@
 ### ⚙️ Backend Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![BMW M4](https://upload.wikimedia.org/wikipedia/commons/6/66/2021_BMW_M4_Competition_Automatic_3.0_Front.jpg)
+![BMW M4](./images/bmw-m4.jpg)
+
